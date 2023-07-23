@@ -1,0 +1,6 @@
+while true do
+  
+  print("eeee")
+  wait()
+  
+end
